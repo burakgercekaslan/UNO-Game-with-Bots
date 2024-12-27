@@ -1,0 +1,20 @@
+Player asd   Deck : [yellow 8, yellow 3, green 1, blue 4, blue 1, black C, blue B]
+Player Mehmet   Deck : [black +4, red +2, green 7, black C, blue 9, blue 8, green 1]
+Player Neo   Deck : [red 9, green +2, yellow 7, black +4, green 5, red 9, blue 0]
+Player Bamboo   Deck : [yellow 9, yellow 0, yellow 9, red 2, red 3, yellow 8, blue 2]
+Player Barış   Deck : [yellow 1, blue 9, yellow 1, green 6, yellow R, red 3, green 3]
+Player ChadGPT   Deck : [green B, black +4, yellow 3, green 0, green 8, black +4, red 4]
+Player tomar753   Deck : [yellow 4, red 1, green B, green 4, blue R, blue 5, red 8]
+Player Serengül   Deck : [yellow 6, blue 8, red 2, blue 3, red B, red R, yellow B]
+Player Polat Alemdar   Deck : [yellow 2, red 5, black C, green 8, yellow 2, yellow 7, green 9]
+Player Faiz   Deck : [blue 1, blue 7, blue +2, red 7, red 6, yellow 6, blue 4]
+Player: asd : Played Card:blue C  :  Player Deck: [yellow 8, yellow 3, green 1, blue 4, blue 1, blue B]
+Player: Mehmet : Played Card:blue 8  :  Player Deck: [black +4, red +2, green 7, black C, blue 9, green 1]
+Bamboo draw 4.
+Player: Neo : Played Card:blue +4  :  Player Deck: [red 9, green +2, yellow 7, green 5, red 9, blue 0]
+Player: Barış : Played Card:blue 9  :  Player Deck: [yellow 1, yellow 1, green 6, yellow R, red 3, green 3]
+tomar753 draw 4.
+Player: ChadGPT : Played Card:red +4  :  Player Deck: [green B, yellow 3, green 0, green 8, black +4, red 4]
+Polat Alemdar blocked
+Player: Serengül : Played Card:red B  :  Player Deck: [yellow 6, blue 8, red 2, blue 3, red R, yellow B]
+Player: Faiz : Played Card:red 7  :  Player Deck: [blue 1, blue 7, blue +2, red 6, yellow 6, blue 4]
